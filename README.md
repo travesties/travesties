@@ -5,6 +5,6 @@ I'm currentlying working on a web application for aggregating and organizing mus
 as the GM of my TTRPG group. The back-end is a RESTful API, built with Flask, sitting on top of MongoDB. The front-end is being built entirely with vanilla JavaScript,
 and Jinja-rendered html templates.
 
-I am extremely interested in Python at the moment, and am on the look out for cool collaborate opportunities!
+I am extremely interested in Python at the moment, and am on the look out for cool collaboration opportunities!
 
 For business inqueries, you can reach me at <travis@travishunt.me>
