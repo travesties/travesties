@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @TravisHunt
+# 👋 Hi, I’m Travis Hunt
 I'm a software developer/engineer with 6 years experience in the web development space, though I'm interested in a wide vareity of subjects.
 
 I'm currentlying working on a web application for aggregating and organizing music from multiple streaming services into individual playlists to serve my music needs
